@@ -49,7 +49,7 @@ fn main() {
     "hello".println();
     2.4.println();
     let origin = Point { x: 0, y: 0 };
-    origin.print();
+    origin.println();
     origin.dprint();
 }
 
