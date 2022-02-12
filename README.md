@@ -1,5 +1,5 @@
 # d_print
-This library provide to easily print a struct in rust.
+This library provide an easy way to print a struct in rust.
 
 ## Usage
 ### Using  ```DisplayPrint``` trait
