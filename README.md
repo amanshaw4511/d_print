@@ -50,6 +50,7 @@ fn main() {
     2.4.println();
     let origin = Point { x: 0, y: 0 };
     origin.print();
+    origin.dprint();
 }
 
 // Output //
