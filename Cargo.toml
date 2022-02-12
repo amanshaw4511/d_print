@@ -1,6 +1,6 @@
 [package]
 name = "d_print"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors= ["amanshaw4511 <amanshaw4511@protonmail.com>"]
 categories = ["cli"]
